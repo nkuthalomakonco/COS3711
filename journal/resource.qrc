@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/remove.png</file>
+        <file>icons/reset.png</file>
+        <file>icons/round-add-button.png</file>
+        <file>icons/searching.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>background/white.jpg</file>
+        <file>background/white1.jpg</file>
+    </qresource>
+</RCC>
