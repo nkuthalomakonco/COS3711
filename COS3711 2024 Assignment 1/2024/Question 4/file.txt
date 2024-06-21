@@ -1,0 +1,17 @@
+Write an application that uses regular expressions to check for telephone numbers and email addresses in a text file provided by a user. The following functionality should be included.
+• The user should be able to select the file to check using a standard file open dialog box.
+• The file should be displayed in the GUI.
+• The telephone numbers and email addresses should be highlighted/emphasized in some way in the text.
+An email address can be identified by a single @ symbol in the address; telephone numbers could be from any of the following formats:
+• 000-000-0000
+• 000-0000000
+• 0000000000
+• (000)000-0000
+• (000)0000000
+You may assume that the email addresses and telephone numbers are free standing, that is, they do not have brackets (or any other character) around them.
+
+
+firstname.lastname@company.com
+firstname@company.com
+firstname_lastname@company.com
+f.lastname@company.com
