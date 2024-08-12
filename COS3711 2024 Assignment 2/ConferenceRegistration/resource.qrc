@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>files/diskette.png</file>
+        <file>files/enter.png</file>
+        <file>files/folder.png</file>
+        <file>files/info.png</file>
+        <file>files/count.png</file>
+        <file>files/search.png</file>
+        <file>files/add.png</file>
+        <file>files/registration.png</file>
+        <file>files/stylesheet.qss</file>
+        <file>files/MacOS.qss</file>
+        <file>files/Ubuntu.qss</file>
+        <file>files/W11.qss</file>
+        <file>files/go-down-symbolic.symbolic.png</file>
+    </qresource>
+</RCC>
