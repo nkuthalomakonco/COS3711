@@ -1,0 +1,162 @@
+/* Windows11Style.qss */
+
+/* Set application background and text color */
+QWidget {
+    background-color: #f0f0f0; /* Light gray */
+    color: #000000; /* Black */
+}
+
+/* Set background and text color for all QLabel */
+QLabel {
+    color: #000000; /* Black */
+}
+
+/* Set background and text color for all QPushButton */
+QPushButton {
+    background-color: #ffffff; /* White */
+    border: 1px solid #8a8a8a; /* Light gray */
+    color: #000000; /* Black */
+    padding: 8px 16px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+/* Change button background color on hover */
+QPushButton:hover {
+    background-color: #f2f2f2; /* Lighter gray */
+}
+
+/* Change button background color on press */
+QPushButton:pressed {
+    background-color: #d9d9d9; /* Even lighter gray */
+}
+
+/* Set background and text color for all QComboBox */
+QComboBox {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+    border: 1px solid #8a8a8a; /* Light gray */
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* Change arrow background color in QComboBox */
+QComboBox::drop-down {
+    background-color: #f0f0f0; /* Light gray */
+}
+
+/* Set background and text color for all QTextEdit */
+QTextEdit {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+    border: 1px solid #8a8a8a; /* Light gray */
+    border-radius: 5px;
+}
+
+/* Set background and text color for all QLineEdit */
+QLineEdit {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+    border: 1px solid #8a8a8a; /* Light gray */
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* Set background and text color for all QListView */
+QListView {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+    border: 1px solid #8a8a8a; /* Light gray */
+    border-radius: 5px;
+}
+
+/* Set background and text color for all QTreeView */
+QTreeView {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+    border: 1px solid #8a8a8a; /* Light gray */
+    border-radius: 5px;
+}
+
+/* Set background and text color for all QTableView */
+QTableView {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+    border: 1px solid #8a8a8a; /* Light gray */
+    border-radius: 5px;
+}
+
+/* Set background and text color for all QScrollBar */
+QScrollBar {
+    background-color: #f0f0f0; /* Light gray */
+}
+
+/* Change QScrollBar handle color */
+QScrollBar::handle {
+    background-color: #d9d9d9; /* Even lighter gray */
+    border-radius: 5px;
+}
+
+/* Change QScrollBar handle color on hover */
+QScrollBar::handle:hover {
+    background-color: #c0c0c0; /* Light gray */
+}
+
+/* Change QScrollBar handle color when pressed */
+QScrollBar::handle:pressed {
+    background-color: #b0b0b0; /* Slightly darker gray */
+}
+
+/* Change QScrollBar background color on hover */
+QScrollBar::add-page:vertical:hover,
+QScrollBar::sub-page:vertical:hover {
+    background-color: #e0e0e0; /* Lighter gray */
+}
+
+/* Set background and text color for all QMessageBox */
+QMessageBox {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+    border: 1px solid #8a8a8a; /* Light gray */
+    border-radius: 5px;
+}
+
+/* Set background and text color for all QDialog */
+QDialog {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+    border: 1px solid #8a8a8a; /* Light gray */
+    border-radius: 5px;
+}
+
+/* Set background and text color for all QTabWidget */
+QTabWidget {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+    border: 1px solid #8a8a8a; /* Light gray */
+    border-radius: 5px;
+}
+
+/* Set background color for all QTabBar */
+QTabBar {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+}
+
+/* Set background and text color for all QMenuBar */
+QMenuBar {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+}
+
+/* Set background and text color for all QMenu */
+QMenu {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+}
+
+/* Set background and text color for all QStatusBar */
+QStatusBar {
+    background-color: #ffffff; /* White */
+    color: #000000; /* Black */
+}

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>files/info.png</file>
+        <file>files/Integrid.qss</file>
+        <file>files/MacOS.qss</file>
+        <file>files/stylesheet.qss</file>
+        <file>files/Ubuntu.qss</file>
+        <file>files/W11.qss</file>
+        <file>files/go-down.png</file>
+        <file>files/go-up.png</file>
+        <file>files/icons8-down-50.png</file>
+    </qresource>
+</RCC>
